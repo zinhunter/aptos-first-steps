@@ -1,6 +1,8 @@
 ![banner](./recursos/imagenes/banner.png)
 # Primeros pasos en Aptos
 
+Hola soy Isaac
+
 ## Introducción
 
 **Aptos** es una red de **Layer-1** segura y con alta escalabilidad. Permite la creación de smart contracts con **Move**, un lenguaje de programación diseñado específicamente para garantizar la seguridad y el control de acceso de los recursos computacionales de esta blockchain.
